@@ -31,10 +31,10 @@
                         </div>
                     </div>
                 </section>
-                <section class="">
+                <section class="pb-4">
                     <div>
                         <h3>Preventative Maintenance </h3>
-                        <p class="p-font"><strong>&zwj;</strong>Umbrella’s custom ELASO-DECK™ waterproofing packages include primer, base coat and glaze in your choice of basic black or 42 colors. Pac-Poly ELASTO-DECK liquid membrane coatings are waterproof, skid-resistant and hold up to extreme heat and cold.<br>&zwj;<br>Umbrella Waterproofing can schedule services to provide the least amount of disruption to your homeowners and guests.</p>
+                        <p class="p-font"><strong>&zwj;</strong>Umbrella’s custom ELASO-DECK™ waterproofing packages include primer, base coat and glaze in your choice of basic black or 42 colors. Pac-Poly ELASTO-DECK liquid membrane coatings are waterproof, skid-resistant and hold up to extreme heat and cold.<br>Umbrella Waterproofing can schedule services to provide the least amount of disruption to your homeowners and guests.</p>
                     </div>
                 </section>
             </div>

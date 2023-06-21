@@ -6,7 +6,9 @@
     margin: 0;
     font-family: 'DM Sans', sans-serif;
 }
-
+.contact-manage-p label{
+    font-weight: 500;
+}
 .footer {
     background-color: #1e2245;
 }
@@ -113,9 +115,11 @@
     width: 100px;
     border-radius: 50%;
 }
+
 .avater-message p strong {
     font-weight: 500
 }
+
 @media screen and (max-width:768px) {
     .solutions-images {
         height: 200px;

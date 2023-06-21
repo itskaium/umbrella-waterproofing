@@ -11,7 +11,7 @@
 <!-- Body section  -->
 <section>
     <div class="container">
-        <div class="row px-lg-3">
+        <div class="row px-lg-3 contact-manage-p">
             <div class="col-lg-2 col-md-12 text-sm-center mt-5">
                 <h3 class="h3 mt-4">
                     <p class="text-bold"> Contact Us</p>
@@ -29,20 +29,20 @@
                             <h6 class="text-primary">CONTACT US</h6>
                         </p>
                     </div>
-                    <h4 class="h2 mb-4"> <b>Get a quote for an <br>appointment</b></h4>
+                    <h4 class="h2 mb-4 text-bold">Get a quote for an <br>appointment</h4>
                     <div class="quote-request w-form">
                         <form name="wf-form-Quote-Request" data-name="Quote Request" class="">
-                            <label for="" class="py-2">Name *</label>
+                            <label for="" class="py-2">Name <span class="text-danger">*</span></label>
                             <input type="email" class="form-control py-3 bg-body-secondary" id="Quote-Email" required="">
-                            <label for="" class="py-2">Email Address *</label>
+                            <label for="" class="py-2">Email Address <span class="text-danger">*</span></label>
                             <input type="email" class="form-control py-3 bg-body-secondary" id="Quote-Email" required="">
-                            <label for="" class="py-2">Phone *</b></label>
+                            <label for="" class="py-2">Phone <span class="text-danger">*</span></b></label>
                             <input type="email" class="form-control py-3 bg-body-secondary" id="Quote-Email" required="">
-                            <label for="" class="py-2">Property Address *</label>
+                            <label for="" class="py-2">Property Address <span class="text-danger">*</span></label>
                             <input type="email" class="form-control py-3 bg-body-secondary" id="Quote-Email" required="">
-                            <label for="" class="py-2">Property City, State, Zip *</label>
+                            <label for="" class="py-2">Property City, State, Zip <span class="text-danger">*</span></label>
                             <input type="email" class="form-control py-3 bg-body-secondary" id="Quote-Email" required="">
-                            <label for="" class="py-2">Do you prefer email or phone? *</label>
+                            <label for="" class="py-2">Do you prefer email or phone? <span class="text-danger">*</span></label>
                             <input type="email" class="form-control py-3 bg-body-secondary" id="Quote-Email" required="">
                             <div class="row">
                                 <div class="col-md-5 col-sm-12">

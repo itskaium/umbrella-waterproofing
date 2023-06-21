@@ -9,7 +9,7 @@
 </div>
 <div class="container">
     <div class="row px-lg-3">
-        <div class="col-lg-9 col-sm-12 pt-5 mt-5 rounded">
+        <div class="col-lg-9 col-sm-12 pt-5 rounded">
             <div class="row p-">
                 <div class="col-lg-6 col-md-12 pb-sm-3 col-sm-12">
                     <img src="image/homeTw.jpg" class="w-100 h-100  rounded" alt="">
@@ -49,8 +49,8 @@
                 <div class="col-md-12">
                     <div class="card text-bg-dark border border-0 rounded-0 mb-5">
                         <img src="image/home2.jpg" class="w-100 object-fit-cover" height="350px" alt="about">
-                        <div class="card-img-overlay  text-center pt-5 ps-4">
-                            <h2 class=" pt-5 ps-5 pb-3 text-bold text-white">Western Washington’s deck waterproofing, sealant and  coating authority.</h2>
+                        <div class="card-img-overlay image-background-set text-center pt-5 ps-4">
+                            <h2 class=" pt-5 ps-5 pb-4 text-bold text-white">Western Washington’s deck waterproofing, sealant and  coating authority.</h2>
                             <button class="px-5 py-3 btn btn-light fw-medium ">Contact Us</button>
                         </div>
                     </div>
