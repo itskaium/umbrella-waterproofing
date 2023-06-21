@@ -49,7 +49,7 @@
 <!-- Main section  -->
 <div class="main">
     <div class="container">
-        <div class="row mb-5">
+        <div class="row">
             <div class="col-lg-9">
                 <section class="solutions">
                     <p class="h1 text-center py-5"><b>We Provide Solutions For:</b></p>
