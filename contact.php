@@ -47,19 +47,19 @@
                             <div class="row">
                                 <div class="col-md-5 col-sm-12">
                                     <label for="" class="py-2 d-block"><b>Type of Dwelling</b></label>
-                                    <input type="checkbox" class="me-2" name="" id=""><label for=""><b>Single Family Home</b></label> <br>
-                                    <input type="checkbox" class="me-2" name="" id=""><label for=""><b>Multi-Family Complex</b></label><br>
-                                    <input type="checkbox" class="me-2" name="" id=""><label for=""><b>Duplex</b>
+                                    <input type="checkbox" class="me-2" name="" id=""><label for="" class="text-bold">Single Family Home</label> <br>
+                                    <input type="checkbox" class="me-2" name="" id=""><label for="" class="text-bold">Multi-Family Complex</label><br>
+                                    <input type="checkbox" class="me-2" name="" id=""><label for="" class="text-bold">Duplex
                                     </label>
                                 </div>
                                 <div class="col-md-7 col-sm-12">
-                                    <label for="" class="py-2 d-block"><b>Check All that apply</b></label>
-                                    <input type="checkbox" class="me-2" name="" id=""><label class="" for=""><b>Is there an HOA?</b></label><br>
-                                    <input type="checkbox" class="me-1" name="" id=""><label for=""><b>Owned by a property manager?</b></label><br>
-                                    <input type="checkbox" class="me-2" name="" id=""><label for=""><b>you like phone consultation?</b></label>
+                                    <label for="" class="py-2 d-block">Check All that apply</label>
+                                    <input type="checkbox" class="me-2" name="" id=""><label class="" for="" class="text-bold">Is there an HOA?</label><br>
+                                    <input type="checkbox" class="me-2" name="" id=""><label for="" class="text-bold">Owned by a property manager?</label><br>
+                                    <input type="checkbox" class="me-2" name="" id=""><label for="" class="text-bold">you like phone consultation?</label>
                                 </div>
                             </div>
-                            <label for="" class="my-2"><b>Message</b></label>
+                            <label for="" class="my-2 text-bold">Message</b></label>
                             <div class="form-floating">
                                 <textarea class="form-control" placeholder="Leave a comment here"
                                     id="floatingTextarea"></textarea>

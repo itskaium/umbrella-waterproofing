@@ -59,8 +59,8 @@
     <div class="container">
         <div class="row py-5">
             <div class="col-md-12 text-center text-white py-5">
-                <h1 class="h1"><b>Give us a Call</b></h1>
-                <em>Call today to schedule your site inspection and estimate:</em>
+                <h1 class="h1">Give us a Call</h1>
+                <p class="text-white fst-italic">Call today to schedule your site inspection and estimate:</p>
                 <h3><a href="" class="text-decoration-none text-white">(425) 876-6764</a></h3>
             </div>
         </div>
