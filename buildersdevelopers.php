@@ -13,10 +13,10 @@
 <!-- Body section  -->
 <section>
   <div class="container">
-    <div class="row mt-5">
+    <div class="row px-lg-3">
       <div class="col-lg-9">
-          <h3 class="pt-5">Proper Underlayment for Any Deck Finish</h3>
-          <p class="color">Flat roofs, plazas and decks made of concrete, vinyl, non-slotted wood or other substrates should be professionally waterproofed to prevent leaks and structural corrosion.<br><br>Professional waterproofing and the application of deck sealant and roof sealant are not tasks within the capabilities of a general subcontractor. Failure to properly waterproof a new residential or commercial structure can lead to pricey internal leaks, deck failure and even structural failure down the road.<br><br><em></em></p>
+          <h3 class="pt-5 px-3">Proper Underlayment for Any Deck Finish</h3>
+          <p class="px-3">Flat roofs, plazas and decks made of concrete, vinyl, non-slotted wood or other substrates should be professionally waterproofed to prevent leaks and structural corrosion.<br><br>Professional waterproofing and the application of deck sealant and roof sealant are not tasks within the capabilities of a general subcontractor. Failure to properly waterproof a new residential or commercial structure can lead to pricey internal leaks, deck failure and even structural failure down the road.<br><br><em></em></p>
         <div>
           <section class="">
             <div class="row homeowners-dg rounded">
@@ -33,7 +33,7 @@
             </div>
           </section>
         </div>
-        <div class="row pb-5">
+        <div class="row">
           <div class="col-lg-8 col-md-12 mt-5">
             <div class="color pt-2">
               <h2>See the benefits</h2>

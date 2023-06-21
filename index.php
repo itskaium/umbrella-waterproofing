@@ -89,7 +89,7 @@
                         <div class="col-lg-6 col-md-12  pt-5">
                             <h3 class="h2 pb-3"><b>Professional<br> Waterproofing </b></h3>
                             <p>Umbrella Waterproofing is Western Washington’s deck waterproofing, sealant and coating authority. Our brand of professional waterproofing goes deeper than the surface of your deck; our deck recoating and deck resurfacing services fully protect the integrity of your structure and the safety of everyone within it.<br></p>
-                            <a href="#" class="text-decoration-none fw-medium btn btn-primary mt-3 px-5">Book our Services</a>
+                            <a href="#" class="text-decoration-none fw-medium btn btn-primary mt-3 px-5 py-3">Book our Services</a>
                         </div>
                         <div class="col-lg-6 col-md-12 ">
                             <div class="w-richtext">

@@ -10,7 +10,7 @@
 <!-- Body section  -->
 <section>
     <div class="container">
-        <div class="row mt-5">
+        <div class="row px-lg-3">
             <div class="col-lg-9">
                 <div class="row">
                     <div class="col-md-8 col-sm-12 mt-4">

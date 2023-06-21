@@ -1,4 +1,4 @@
-<div class="sidebar col-lg-3 mt-5">
+<div class="sidebar col-lg-3 mt-5 mb-5">
     <div class="bg-secondary text-white p-5 p-lg-4 rounded">
         <h3 class="m-0 pb-2">Elasto-Deck™</h3>
         <p class="">

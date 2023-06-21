@@ -10,7 +10,7 @@
 <!-- Body section  -->
 <section>
     <div class="container">
-        <div class="row">
+        <div class="row px-lg-3">
             <div class="col-lg-9">
                 <section class="pera-1">
                     <div class="content-div border p-3 my-5 rounded">

@@ -11,7 +11,7 @@
 <!-- Body section  -->
 <section>
     <div class="container">
-        <div class="row">
+        <div class="row px-lg-3">
             <div class="col-lg-9">
                 <section class="section-1 pt-5 pb-2">
                     <div class="">

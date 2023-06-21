@@ -10,7 +10,7 @@
 <!-- Body section  -->
 <section>
     <div class="container">
-        <div class="row mt-5">
+        <div class="row px-lg-3">
             <div class="col-lg-9">
                 <div class="row">
                     <div class="col-md-8 mt-4 mb-5">
@@ -35,7 +35,7 @@
                         </div>
                     </div>
                     <div class=" col-lg-12 p-3 mt-5">
-                        <div class="row homeowners-dg rounded">
+                        <div class="row homeowners-dg rounded px-3">
                             <div class="col-lg-6 col-md-12">
                                 <img src="image/homeTw.jpg" class="w-100 h-100  rounded" alt="">
                             </div>

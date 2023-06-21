@@ -11,42 +11,39 @@
 <!-- Body section  -->
 <section>
     <div class="container">
-        <div class="row">
+        <div class="row px-lg-3">
             <div class="col-lg-2 col-md-12 text-sm-center mt-5">
                 <h3 class="h3 mt-4">
-                    <b> Contact Us</b>
+                    <p class="text-bold"> Contact Us</p>
                 </h3>
                 <p class="contact-pera">Umbrella Waterproofing <br>
                     PO Box 1245 <br>
                     Mukilteo, WA 98275</p>
-                <a href="" class="text-decoration-none text-black"><b>(425) 786-6764</b></a>
+                <a href="telephone:(425) 786-6764" class="text-decoration-none text-primary"><b>(425) 786-6764</b></a>
             </div>
             <div class="col-lg-7 mt-4">
-                <div class="form-d mt-4 p-4 shadow-lg rounded mb-5">
+                <div class="form-d mt-4 p-4 pt-2 pb-4 shadow-lg rounded mb-5">
 
-                    <div class="caption H2 mt-4">
-                        <a href="" class="text-decoration-none pb-2 fs-6">
-                            <h6>CONTACT US</h6>
-                        </a>
+                    <div class="caption H2 mt-2">
+                        <p class="text-decoration-none pb-2 fs-6">
+                            <h6 class="text-primary">CONTACT US</h6>
+                        </p>
                     </div>
                     <h4 class="h2 mb-4"> <b>Get a quote for an <br>appointment</b></h4>
                     <div class="quote-request w-form">
                         <form name="wf-form-Quote-Request" data-name="Quote Request" class="">
-                            <input type="text" class="form-control mb-3 py-2 bg-body-secondary" placeholder="Name" required="">
-                            <input type="email" class="form-control mb-3 py-2 bg-body-secondary" placeholder="Email Address" required="">
-                            <input type="submit" value="Request a Quote" data-wait="Please wait..." class="btn btn-primary py-2 px-5 w-100 fw-medium">
-                            <label for="" class="py-2 "><b>Name *</b></label>
-                            <input type="email" class="form-control py-2 bg-body-secondary" id="Quote-Email" required="">
-                            <label for="" class="py-2 "><b>Property Address *</b></label>
-                            <input type="email" class="form-control py-2 bg-body-secondary" id="Quote-Email" required="">
-                            <label for="" class="py-2 "><b>Email Address *</b></label>
-                            <input type="email" class="form-control py-2 bg-body-secondary" id="Quote-Email" required="">
-                            <label for="" class="py-2 "><b>Property City, State, Zip *</b></label>
-                            <input type="email" class="form-control py-2 bg-body-secondary" id="Quote-Email" required="">
-                            <label for="" class="py-2 "><b>Phone *</b></label>
-                            <input type="email" class="form-control py-2 bg-body-secondary" id="Quote-Email" required="">
-                            <label for="" class="py-2 "><b>Do you prefer email or phone? *</b></label>
-                            <input type="email" class="form-control py-2 bg-body-secondary" id="Quote-Email" required="">
+                            <label for="" class="py-2">Name *</label>
+                            <input type="email" class="form-control py-3 bg-body-secondary" id="Quote-Email" required="">
+                            <label for="" class="py-2">Email Address *</label>
+                            <input type="email" class="form-control py-3 bg-body-secondary" id="Quote-Email" required="">
+                            <label for="" class="py-2">Phone *</b></label>
+                            <input type="email" class="form-control py-3 bg-body-secondary" id="Quote-Email" required="">
+                            <label for="" class="py-2">Property Address *</label>
+                            <input type="email" class="form-control py-3 bg-body-secondary" id="Quote-Email" required="">
+                            <label for="" class="py-2">Property City, State, Zip *</label>
+                            <input type="email" class="form-control py-3 bg-body-secondary" id="Quote-Email" required="">
+                            <label for="" class="py-2">Do you prefer email or phone? *</label>
+                            <input type="email" class="form-control py-3 bg-body-secondary" id="Quote-Email" required="">
                             <div class="row">
                                 <div class="col-md-5 col-sm-12">
                                     <label for="" class="py-2 d-block"><b>Type of Dwelling</b></label>
@@ -67,7 +64,7 @@
                                 <textarea class="form-control" placeholder="Leave a comment here"
                                     id="floatingTextarea"></textarea>
                                 <input type="submit" value="Send" data-wait="Please wait..."
-                                    class="w-100 py-2 fw-medium mt-3 btn btn-primary">
+                                    class="w-100 py-3 fw-medium mt-3 btn btn-primary">
                             </div>
                         </form>
                     </div>
