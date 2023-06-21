@@ -46,7 +46,7 @@
                         <li class="nav-item mx-0 mx-lg-1">
                             <a class="nav-link py-3 px-0 px-lg-3 rounded" href="contact.php"><b>Contact us</b></a>
                         </li>
-                        <a href="tel:4258766764" class="btn btn-primary py-3 px-lg-3 px-xl-5"><b>(425) 876-6764</b></a>
+                        <a href="tel:4258766764" class="btn btn-primary py-3 px-lg-3 px-xl-5"><p class="text-white m-0 text-bold">(425) 876-6764</p></a>
                     </ul>
                 </div>
             </nav>

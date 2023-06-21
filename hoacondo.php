@@ -3,7 +3,7 @@
 <div class="card text-bg-dark border border-0 rounded-0 ">
     <img src="image/Exterior-1.jpg" class="w-100 object-fit-cover" height="300px" alt="about">
     <div class="card-img-overlay image-background-set pt-5 ps-4">
-        <h1 class=" pt-5 ps-5 mt-4"><b>HOA & Condo Boards</b></h1>
+        <h1 class=" pt-5 ps-5 mt-4 text-white text-bold">HOA & Condo Boards</h1>
     </div>
 </div>
 <!-- End Background section  -->

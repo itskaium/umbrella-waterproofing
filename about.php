@@ -4,7 +4,7 @@
 <div class="card text-bg-dark border border-0 rounded-0 ">
     <img src="image/8976.jpeg" class="w-100 object-fit-cover" height="300px" alt="about">
     <div class="card-img-overlay image-background-set pt-5 ps-4">
-        <h1 class="pt-5 ps-5 mt-4"><b>About Umbrella Waterproofing</b></h1>
+        <h1 class="pt-5 ps-5 mt-4 text-white text-bold">About Umbrella Waterproofing</h1>
     </div>
 </div>
 <div class="container">
@@ -50,7 +50,7 @@
                     <div class="card text-bg-dark border border-0 rounded-0 mb-5">
                         <img src="image/home2.jpg" class="w-100 object-fit-cover" height="350px" alt="about">
                         <div class="card-img-overlay  text-center pt-5 ps-4">
-                            <h2 class=" pt-5 ps-5 pb-3"><b>Western Washington’s deck waterproofing, sealant and  coating authority.</b></h2>
+                            <h2 class=" pt-5 ps-5 pb-3 text-bold text-white">Western Washington’s deck waterproofing, sealant and  coating authority.</h2>
                             <button class="px-5 py-3 btn btn-light fw-medium ">Contact Us</button>
                         </div>
                     </div>

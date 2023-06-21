@@ -3,7 +3,7 @@
 <div class="card text-bg-dark border border-0 rounded-0 ">
     <img src="image/home2.jpg" class="w-100 object-fit-cover" height="300px" alt="about">
     <div class="card-img-overlay image-background-set pt-5 ps-4">
-        <h2 class="pt-5 ps-5  mt-4"><b>Get in touch with our team of professionals</b></h2>
+        <h2 class="pt-5 ps-5  mt-4"><p class="text-bold text-white">Get in touch with our team of professionals</p></h2>
     </div>
 </div>
 <!-- End Background section  -->
@@ -19,7 +19,7 @@
                 <p class="contact-pera">Umbrella Waterproofing <br>
                     PO Box 1245 <br>
                     Mukilteo, WA 98275</p>
-                <a href="telephone:(425) 786-6764" class="text-decoration-none text-primary"><b>(425) 786-6764</b></a>
+                <a href="tel:4258766764" class="text-decoration-none text-primary"><b>(425) 786-6764</b></a>
             </div>
             <div class="col-lg-7 mt-4">
                 <div class="form-d mt-4 p-4 pt-2 pb-4 shadow-lg rounded mb-5">

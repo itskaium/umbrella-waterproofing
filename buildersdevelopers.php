@@ -5,11 +5,10 @@
 <div class="card text-bg-dark border border-0 rounded-0 ">
   <img src="image/home2.jpg" class="w-100 object-fit-cover" height="300px" alt="about">
   <div class="card-img-overlay image-background-set pt-5 ps-4">
-    <h1 class="pt-5 ps-5  mt-4"><b>Builders & Developers</b></h1>
+    <h1 class="pt-5 ps-5 mt-4 text-white text-bold">Builders & Developers</h1>
   </div>
 </div>
 <!-- End Background section  -->
-
 <!-- Body section  -->
 <section>
   <div class="container">

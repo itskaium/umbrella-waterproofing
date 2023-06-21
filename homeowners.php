@@ -3,14 +3,14 @@
 <div class="card text-bg-dark border border-0 rounded-0 ">
     <img src="image/Exterior-1.jpg" class="w-100 object-fit-cover" height="300px" alt="about">
     <div class="card-img-overlay image-background-set pt-5 ps-4">
-        <h1 class=" pt-5 ps-5 mt-4"><b>Homeowners</b></h1>
+        <h1 class=" pt-5 ps-5 mt-4 text-white text-bold">Homeowners</h1>
     </div>
 </div>
 <!-- End Background section  -->
 <!-- Body section  -->
 <section>
     <div class="container">
-        <div class="row px-lg-3">
+        <div class="row px-3">
             <div class="col-lg-9">
                 <div class="row">
                     <div class="col-md-8 mt-4 mb-5">

@@ -14,27 +14,23 @@
                 <div class="carousel-roun rounder-slider">
                     <div class="carousel-caption p-4 position-absolute top-50 translate-middle-y rounded-circle circle">
                         <h6 class="">Builders & Developers:</h6>
-                        <p class="m-0">It pays to do it right the first time</p>
+                        <p class="m-0 text-white">It pays to do it right the first time</p>
                     </div>
                 </div>
                 <img src="image/slide-1.jpg" class="d-block w-100 carousel-setter" alt="...">
             </div>
             <div class="carousel-item">
-                <div class="carousel-roun rounder-slider">
-                    <div class="carousel-caption rounded-circle circle mb-5">
-                        <h6 class="pt-5">Builders & Developers:</h6>
-                        <p class="mb-2">It pays to do it right the first time</p>
+                <<div class="carousel-caption p-4 position-absolute top-50 translate-middle-y rounded-circle circle">
+                        <h6 class="">Builders & Developers:</h6>
+                        <p class="m-0 text-white">It pays to do it right the first time</p>
                     </div>
-                </div>
                 <img src="image/slide-2.jpg" class="d-block w-100  carousel-setter" alt="...">
             </div>
             <div class="carousel-item">
-                <div class="carousel-roun rounder-slider">
-                    <div class="carousel-caption rounded-circle circle mb-5">
-                        <h6 class="pt-5">Builders & Developers:</h6>
-                        <p class="mb-2">It pays to do it right the first time</p>
+                <<div class="carousel-caption p-4 position-absolute top-50 translate-middle-y rounded-circle circle">
+                        <h6 class="">Builders & Developers:</h6>
+                        <p class="m-0 text-white">It pays to do it right the first time</p>
                     </div>
-                </div>
                 <img src="image/slide-3.jpg" class="d-block w-100  carousel-setter" alt="...">
             </div>
         </div>
