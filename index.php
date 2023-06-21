@@ -20,18 +20,18 @@
                 <img src="image/slide-1.jpg" class="d-block w-100 carousel-setter" alt="...">
             </div>
             <div class="carousel-item">
-                <<div class="carousel-caption p-4 position-absolute top-50 translate-middle-y rounded-circle circle">
+                <div class="carousel-caption p-4 position-absolute top-50 translate-middle-y rounded-circle circle">
                         <h6 class="">Builders & Developers:</h6>
                         <p class="m-0 text-white">It pays to do it right the first time</p>
                     </div>
                 <img src="image/slide-2.jpg" class="d-block w-100  carousel-setter" alt="...">
             </div>
             <div class="carousel-item">
-                <<div class="carousel-caption p-4 position-absolute top-50 translate-middle-y rounded-circle circle">
+                <div class="carousel-caption p-4 position-absolute top-50 translate-middle-y rounded-circle circle">
                         <h6 class="">Builders & Developers:</h6>
                         <p class="m-0 text-white">It pays to do it right the first time</p>
                     </div>
-                <img src="image/slide-3.jpg" class="d-block w-100  carousel-setter" alt="...">
+                <img src="image/slide-3.jpg" class="d-block w-100  carousel-setter" alt="">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#uwp_caption" data-bs-slide="prev">
@@ -52,7 +52,7 @@
         <div class="row">
             <div class="col-lg-9">
                 <section class="solutions">
-                    <p class="h1 text-center py-5"><b>We Provide Solutions For:</b></p>
+                    <p class="h1 text-center pt-5 pb-3"><b>We Provide Solutions For:</b></p>
                     <div class="row">
                         <div class="col-md-6 col-lg-4">
                             <div class="bg-image-setter-1 solutions-images mb-4">
